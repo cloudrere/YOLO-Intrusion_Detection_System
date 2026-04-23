@@ -1,0 +1,7 @@
+ultralytics>=8.0.0
+PyQt5>=5.15.0
+opencv-python>=4.5.0
+numpy<2
+torch>=1.8.0
+openpyxl>=3.0.0
+pyyaml>=5.4.0
