@@ -2,8 +2,7 @@
 # YOLO 区域入侵检测系统
 
 基于 PyQt5 + Ultralytics 的桌面检测系统，支持 YOLOv5u / v8 / v9 / v10 / v11 / v12 及自训练权重，覆盖图片、视频、摄像头、RTSP/HLS 视频流四种输入源，内置区域入侵监测、类别筛选、实时统计与 Excel 报表导出。
-<img width="800" height="511" alt="主界面" src="https://github.com/user-attachments/assets/4063076f-caf6-42f4-a45b-fe55697b7392" /><img width="800" height="511" alt="选择模型" src="https://github.com/user-attachments/assets/7d38cc65-f39b-491e-b21c-a4c134717eed" /><img width="800" height="511" alt="入侵区域绘制" src="https://github.com/user-attachments/assets/cd4914a2-2988-463f-800b-3f3d5b2fdadb" /><img width="800" height="511" alt="图片入侵检测" src="https://github.com/user-attachments/assets/cf9255e4-927a-4eec-9b0f-18dd00662805" /><img width="800" height="511" alt="视频入侵检测" src="https://github.com/user-attachments/assets/54d6694c-d51e-481d-a72f-5f7e46ee931e" />
-
+<img width="600" height="382" alt="主界面" src="https://github.com/user-attachments/assets/4063076f-caf6-42f4-a45b-fe55697b7392" /><img width="600" height="382" alt="选择模型" src="https://github.com/user-attachments/assets/7d38cc65-f39b-491e-b21c-a4c134717eed" /><img width="600" height="382" alt="入侵区域绘制" src="https://github.com/user-attachments/assets/cd4914a2-2988-463f-800b-3f3d5b2fdadb" /><img width="600" height="382" alt="图片入侵检测" src="https://github.com/user-attachments/assets/cf9255e4-927a-4eec-9b0f-18dd00662805" /><img width="600" height="382" alt="视频入侵检测" src="https://github.com/user-attachments/assets/54d6694c-d51e-481d-a72f-5f7e46ee931e" />
 
 ## 目录结构
 
@@ -202,6 +201,8 @@ torch>=1.8.0           # 深度学习后端
 openpyxl>=3.0.0        # Excel 报表
 pyyaml>=5.4.0          # YAML 类别导入
 ```
+获取源码请加微信（备注来意，有偿服务）
+<img width="1268" height="1729" alt="微信" src="https://github.com/user-attachments/assets/de1784f0-4027-4767-8df8-b186edf309ad" />
 
 ## 许可与致谢
 
