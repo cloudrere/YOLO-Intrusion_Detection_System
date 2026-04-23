@@ -1,6 +1,13 @@
+
 # YOLO 区域入侵检测系统
 
 基于 PyQt5 + Ultralytics 的桌面检测系统，支持 YOLOv5u / v8 / v9 / v10 / v11 / v12 及自训练权重，覆盖图片、视频、摄像头、RTSP/HLS 视频流四种输入源，内置区域入侵监测、类别筛选、实时统计与 Excel 报表导出。
+<img width="1458" height="930" alt="主界面" src="https://github.com/user-attachments/assets/4063076f-caf6-42f4-a45b-fe55697b7392" />
+<img width="1458" height="930" alt="选择模型" src="https://github.com/user-attachments/assets/7d38cc65-f39b-491e-b21c-a4c134717eed" />
+
+
+
+
 
 ## 目录结构
 
